@@ -1,0 +1,48 @@
+.nn{
+           
+          background-color: darkgreen;  
+          height: 40px;
+          padding-top: 25px;
+       font-weight: bolder;
+       color: white
+        }
+        .ee{
+            margin-left: 1150px;
+        }
+    
+        .ss{
+            background-color:rgb(2, 176, 2); 
+             height: 60px;
+               padding-bottom: 25px;
+            
+        }        
+        
+        span{
+            height: 100px;
+            padding: 2px;
+            margin-left: 200px;
+            position:relative;top:-12px; 
+            text-align: center;
+            color: white;
+        
+        
+        }
+        H1{
+            text-align: center;
+            font-size: 40px;
+        }
+        .nn :hover{
+            color: yellow;
+        }  
+        span:hover{
+            color: yellow;           
+        }     
+       img:hover{
+            transform: scale(1.1);
+            transition: 0.5s;
+        }
+        i:hover{
+             transform: scale(1.1);
+            transition: 0.5s;
+        }
+           
